@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/background_oval.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#D9D9D9"/>
+        <corners android:radius="100dp"/> <!-- Sesuaikan radius ini untuk membentuk oval -->
+    </shape>
+
+</selector>

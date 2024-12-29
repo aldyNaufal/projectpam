@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">projekpam</string>
+    <string name="client_id">121755246090-0k810v2nrius97hk3dhcokjlmbs060tg.apps.googleusercontent.com</string>
+
+    <string name="no_data">Not Signed In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="dont_have_account">Don\'t Have An Account?</string>
+    <string name="already_have_account">Do You Have An Account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create Account</string>
+</resources>

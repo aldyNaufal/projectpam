@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121755246090",
+    "firebase_url": "https://projectpam-8bb0b-default-rtdb.firebaseio.com",
+    "project_id": "projectpam-8bb0b",
+    "storage_bucket": "projectpam-8bb0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121755246090:android:b727c9b96ef6c4c72389f3",
+        "android_client_info": {
+          "package_name": "com.example.projectpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121755246090-mhkk9tpusuoq3d7dd689uh2ha8m836ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectpam",
+            "certificate_hash": "1a9bcaeab56dae897265b984355146910807c516"
+          }
+        },
+        {
+          "client_id": "121755246090-0k810v2nrius97hk3dhcokjlmbs060tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxyUEMufAwweEgmRrIQRDGeyOw9-6CXZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121755246090-0k810v2nrius97hk3dhcokjlmbs060tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

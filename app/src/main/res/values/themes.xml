@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema aplikasi Anda -->
+    <style name="Theme.Projectpam" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Atur atribut khusus tema jika diperlukan -->
+    </style>
+</resources>
